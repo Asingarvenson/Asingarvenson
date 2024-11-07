@@ -7,7 +7,7 @@
 <li>💯 Goal to secure a high-status role
 <li>😜Pronouns : Techie, Developer, UI Designer, Data analyst
 <li>🗣️Languages : English, Tamil<br>
--------------------------------------------------------------------------------------------------
+<hr>
 <li>💬 Ask me about Tech
 <li>📫 How to reach me :
 <br>
