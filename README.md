@@ -11,7 +11,7 @@
 <li>💬 Ask me about Tech
 <li>📫 How to reach me :
 <br>
-<a href="https://www.linkedin.com/in/asingarvensonm/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/asingarvenson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/asin_2k5_.v/)"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <h4>CODING LANGUAGES KNOWN<br>
